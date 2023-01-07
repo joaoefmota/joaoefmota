@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>Olá! </h2>
 <!-- /Header -->
 
-<! -- About me section -->
+<!-- About me section -->
 My name is João, a Junior Full Stack Developer that have always been around technology since a young age.
 
 As a multilingual professional myself, I firmly believe that a flexible profile would be a great asset. It's more than just an idea, as it has been my way of life so far. A multimedia professional with a basis in communication, that understands coding, is a "full-stack" professional capable of understanding and/or producing quality projects from an embryonic status to a finalized version. I'm super motivated to keep on absorving new concepts, engaged in a teamwork environment with my awesome peers!
@@ -54,7 +54,8 @@ As this is my personal repo, I'll keep updating it with some projects to either 
 
 <!-- Jira -->
 <a href="https://en.wikipedia.org/wiki/Jira_(software)" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
-
+</p>
+<p align="left">
 <!-- Git -->
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 
