@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 -->
 <!-- Header -->
 <div id="header" align="center">
-  ![106487116_3034434119958303_7778432301528594073_n](https://user-images.githubusercontent.com/107939073/211154132-6dfffaf7-68b6-4f09-975c-68358bae0396.jpg)
-  
-  <h2>Olá! :thought_balloon:</h2></div>
+    <h2>Olá! :thought_balloon:</h2></div>
 <!-- /Header -->
 <div id="badges" align="center">
-  <a href="https://www.canva.com/design/DAFW_UEc9tY/wNVf68Dv7MIGOHtpJ8Osuw/view?utm_content=DAFW_UEc9tY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=canva&logoColor=white" alt="CV badge"/></a>
-   <a href="https://www.linkedin.com/in/joaoefmota/"target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+  <a href="https://www.canva.com/design/DAFW_UEc9tY/wNVf68Dv7MIGOHtpJ8Osuw/view?utm_content=DAFW_UEc9tY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=canva&logoColor=white" alt="CV badge"/></a>
+   <a href="https://www.linkedin.com/in/joaoefmota/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
 </div>
+
+<div id="codeImg" align="center">
+  <a href="https://www.youtube.com/watch?v=xm3YgoEiEDc&embeds_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_origin=https%3A%2F%2Fwww.bing.com&feature=emb_logo&ab_channel=10Hours" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/107939073/211154731-89f0e4da-eacd-4621-aa4c-6d4efa7fa0ee.png"></a>
+  </div>
 
 <!-- About me section -->
 <h2>:see_no_evil: About Me:</h2>
