@@ -33,7 +33,7 @@ As this is my personal repo, I'll keep updating it with some projects to either 
 <!-- Skills section -->
 
 <h2 align="left">Skills :v: </h2>
-<div align="left"> 
+<p align="left"> 
 <!-- HTML5 -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 
@@ -76,6 +76,6 @@ As this is my personal repo, I'll keep updating it with some projects to either 
 <!-- NextJs -->
 <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
 
-</div>
+</p>
 
 <!-- /Skills section -->
