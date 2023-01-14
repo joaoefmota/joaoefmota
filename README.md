@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 :star: As a multilingual professional myself, I firmly believe that a flexible profile would be a great asset. It's more than just an idea, as it has been my way of life so far. A multimedia professional with a basis in communication, that understands coding, is a "full-stack" professional capable of understanding and/or producing quality projects from an embryonic status to a finalized version. I'm super motivated to keep on absorving new concepts, engaged in a teamwork environment with my awesome peers!
 
-:question: I'm about to finish a Full Stack Web-Developper course at <a href="https://github.com/WildCodeSchool">@WildCodeSchool</a>. Here, I have delved into HTML5/CSS3 (with Tailwind and SASS), JavaScript, SQL (with MySQL), Node.Js, Express.Js, React (with JS, TS and also Next.JS). 
+:question: I'm about to finish a Full Stack Web-Developer course at <a href="https://github.com/WildCodeSchool">@WildCodeSchool</a>. Here, I have delved into HTML5/CSS3 (with Tailwind and SASS), JavaScript, SQL (with MySQL), Node.Js, Express.Js, React (with JS, TS and also Next.JS). 
 
 :raised_hand: As this is my personal repo, I'll keep updating it with some projects to either challenge myself or just to show off 
 
