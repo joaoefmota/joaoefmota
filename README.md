@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/Nodejs" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
 <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> </a> 
+    <a href="http://expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nextjs" width="50" height="50"/> </a> 
+    <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs](https://dashboard.heroku.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="nextjs" width="50" height="50"/> </a> 
 
 </p>
 
