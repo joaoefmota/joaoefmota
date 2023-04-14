@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <h2>Olá! :thought_balloon:</h2></div>
 <!-- /Header -->
 <div id="badges" align="center">
-     <a href="https://joaoefmota.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=vercel&logoColor=white" alt="CV badge"/></a>
+     <a href="https://joaoefmota.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebPage-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Web badge"/></a>
   <a href="https://www.canva.com/design/DAFW_UEc9tY/wNVf68Dv7MIGOHtpJ8Osuw/view?utm_content=DAFW_UEc9tY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=canva&logoColor=white" alt="CV badge"/></a>
    <a href="https://www.linkedin.com/in/joaoefmota/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
 </div>
