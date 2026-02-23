@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- About me section -->
 <h2>:see_no_evil: About Me:</h2>
 
-🔭 My name is João, a Junior Full Stack Developer that have always been around technology since a young age.
+🔭 My name is João, a Web Developer that have always been around technology since a young age.
 
 :star: As a multilingual professional myself, I firmly believe that a flexible profile would be a great asset. It's more than just an idea, as it has been my way of life so far. A multimedia professional with a basis in communication, that understands coding, is a "full-stack" professional capable of understanding and/or producing quality projects from an embryonic status to a finalized version. I'm super motivated to keep on absorving new concepts, engaged in a teamwork environment with my awesome peers!
 
